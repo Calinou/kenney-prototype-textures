@@ -20,7 +20,7 @@ package that also contains vectors.
 - Navigate to the **AssetLib** tab at the top of the editor and search for
   "kenney prototype textures".
 - Install the
-  [*Kenney Prototype Textures*](https://godotengine.org/asset-library/asset/ASSETLIB_ID)
+  [*Kenney Prototype Textures*](https://godotengine.org/asset-library/asset/780)
   plugin. Keep all files checked during installation.
 - Textures are now availables in `addons/kenney_prototype_textures/`.
 
