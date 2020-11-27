@@ -7,8 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.0.1] - 2020-11-27
+
+### Fixed
+
+- All files not needed in Godot are now excluded from the ZIP archive download.
+
 ## 1.0.0 - 2020-11-27
 
 - Initial versioned release.
 
-[Unreleased]: https://github.com/Calinou/kenney-prototype-textures/compare/v1.0.0...HEAD
+[Unreleased]: https://github.com/Calinou/kenney-prototype-textures/compare/v1.0.1...HEAD
+[1.0.1]: https://github.com/Calinou/kenney-prototype-textures/compare/v1.0.0...v1.0.1
